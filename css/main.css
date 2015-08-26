@@ -1,0 +1,103 @@
+h4 {
+    font-size: 1.75em;   
+}
+
+#lineupbutton {
+  padding-top: 10px;   
+}
+
+
+.button {
+ background-color: #034F93;   
+}
+
+.button.hoover {
+    background-color: #0671C1   
+}
+
+
+.padtop {
+    padding-top: 4em;
+    
+}
+
+.padright {
+    padding-right: 1em;
+}
+
+.smaller { 
+    height: 10%;
+}
+
+.img {
+max-width: 100%;
+width: 100%;
+} 
+
+.row h4 {
+   color: #BA2025;
+}
+
+.row h3 {
+   color: #BA2025;
+}
+
+.listSmall{
+    font-size: .75em;
+}
+
+.badgePad {
+    padding-top: 11em;
+}
+
+.lineUp {
+    padding-top: 3em;
+}
+
+#heroHeadSmall {
+    background: url(images/mainheadSmall.jpg) no-repeat center top #03546c;
+    width: 100%;
+    padding-top: 65px;
+    height: 400px;
+    text-align: center;
+}
+
+#heroHeadMed {
+    background: url(images/mainhead.jpg) no-repeat center top #03546c;
+    width: 100%;
+    padding-top: 110px;
+    height: 400px;
+    text-align: center;
+}
+
+#heroHead {
+    background: url(images/mainhead.jpg) no-repeat center top #03546c;
+    width: 100%;
+    padding-top: 110px;
+    height: 400px;
+    text-align: center;
+}
+
+#heroHeadXl {
+    background: url(images/mainheadXl.jpg) no-repeat center top #03546c;
+    width: 100%;
+    padding-top: 75px;
+    height: 400px;
+    text-align: center;
+}
+
+
+.headH1 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 4em;
+}
+
+.headH4 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+
